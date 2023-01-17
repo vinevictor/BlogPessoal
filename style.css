@@ -1,0 +1,79 @@
+h1{
+    text-align: center;
+}
+.geral{
+    width: 700px;
+    margin: auto;
+}
+.cabecalho{
+    text-align: center;
+}
+.apresentacaoDireita{
+    font-size: large;
+    background-color: rgb(212, 99, 99);
+    width: 175px;
+    margin-right: 100px;
+    margin-top: 20px;
+    padding: 10px 30px;
+    float: right;
+}
+.apresentacaoEsquerda{
+    font-size: large;
+    background-color: rgb(212, 99, 99);
+    width: 175px;
+    padding: 10px 30px;
+    margin-top: 20px;
+    margin-left: 100px;
+    float: left;
+}
+.apresentacaoBloco{
+    width: 700px;
+    height: 165px;
+}
+
+.secaoEsquerda1{
+    width: 230px;
+    height: 250px;
+    background-color: rgb(50, 50, 187);
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.secaoEsquerda2{
+    width: 230px;
+    height: 250px;
+    background-color: rgb(36, 190, 113);
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.rotinaTexto{
+    font-size: 10.5px;
+    margin: 0px 10px 10px 10px;
+    font-weight: normal;
+}
+.titulo{
+    margin: 1px 1px;
+    font-size: 24px;
+}
+.secaoDireita1{
+    width: 230px;
+    height: 250px;
+    background-color: rgb(36, 190, 113);
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.secaoDireita2{
+    width: 230px;
+    height: 250px;
+    background-color: rgb(50, 50, 187);
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.texto{
+    margin:0px 10px 10px 10px;
+    font-size: 16px;
+    font-weight:normal;
+}
